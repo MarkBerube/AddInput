@@ -1,0 +1,104 @@
+PLEASE ENTER AN INTEGER BETWEEN 1 AND 32767
+235
+PLEASE ENTER AN INTEGER BETWEEN 1 AND 32767
+0
+THE SUM OF THESE INTEGERS IS:
+235
+
+ProgramCounter : 0000000011010000  base 10:     208
+Accumulator    : 0000000000000000  base 10:       0
+InstructionReg : 1111111111000000  base 10:   65472
+TempInstr      : 1000000000000000  base 10:   32768
+StackPointer   : 0000111101111101  base 10:    3965
+ARegister      : 1111111111110101  base 10:   65525
+BRegister      : 1111111111110110  base 10:   65526
+CRegister      : 0000000000000000  base 10:       0
+DRegister      : 0000000000000010  base 10:       2
+ERegister      : 0000000000000000  base 10:       0
+FRegister      : 0000000000000000  base 10:       0
+
+Total cycles   : 1899588
+
+PLEASE ENTER AN INTEGER BETWEEN 1 AND 32767
+16341
+PLEASE ENTER AN INTEGER BETWEEN 1 AND 32767
+957
+THE SUM OF THESE INTEGERS IS:
+17298
+
+ProgramCounter : 0000000011010000  base 10:     208
+Accumulator    : 0000000000000000  base 10:       0
+InstructionReg : 1111111111000000  base 10:   65472
+TempInstr      : 1000000000000000  base 10:   32768
+StackPointer   : 0000111101111101  base 10:    3965
+ARegister      : 1111111111110101  base 10:   65525
+BRegister      : 1111111111110110  base 10:   65526
+CRegister      : 0000000000000000  base 10:       0
+DRegister      : 0000000000000001  base 10:       1
+ERegister      : 0000000000000000  base 10:       0
+FRegister      : 0000000000000000  base 10:       0
+
+Total cycles   : 2188285
+
+PLEASE ENTER AN INTEGER BETWEEN 1 AND 32767
+23786
+PLEASE ENTER AN INTEGER BETWEEN 1 AND 32767
+12400
+THE SUM OF THESE INTEGERS IS:
+OVERFLOW, NO SUM POSSIBLE
+
+ProgramCounter : 0000000011101111  base 10:     239
+Accumulator    : 1111111111111111  base 10:   65535
+InstructionReg : 1111111111000000  base 10:   65472
+TempInstr      : 1000000000000000  base 10:   32768
+StackPointer   : 0000111101111100  base 10:    3964
+ARegister      : 1111111111110101  base 10:   65525
+BRegister      : 1111111111111111  base 10:   65535
+CRegister      : 0000000000000000  base 10:       0
+DRegister      : 0011000001110000  base 10:   12400
+ERegister      : 0000000000000000  base 10:       0
+FRegister      : 0000000000000000  base 10:       0
+
+Total cycles   : 2691223
+
+PLEASE ENTER AN INTEGER BETWEEN 1 AND 32767
+12
+PLEASE ENTER AN INTEGER BETWEEN 1 AND 32767
+23
+THE SUM OF THESE INTEGERS IS:
+35
+
+ProgramCounter : 0000000011010000  base 10:     208
+Accumulator    : 0000000000000000  base 10:       0
+InstructionReg : 1111111111000000  base 10:   65472
+TempInstr      : 1000000000000000  base 10:   32768
+StackPointer   : 0000111101111101  base 10:    3965
+ARegister      : 1111111111110101  base 10:   65525
+BRegister      : 1111111111110110  base 10:   65526
+CRegister      : 0000000000000000  base 10:       0
+DRegister      : 0000000000000011  base 10:       3
+ERegister      : 0000000000000000  base 10:       0
+FRegister      : 0000000000000000  base 10:       0
+
+Total cycles   : 938846
+
+PLEASE ENTER AN INTEGER BETWEEN 1 AND 32767
+1
+PLEASE ENTER AN INTEGER BETWEEN 1 AND 32767
+1343
+THE SUM OF THESE INTEGERS IS:
+1344
+
+ProgramCounter : 0000000011010000  base 10:     208
+Accumulator    : 0000000000000000  base 10:       0
+InstructionReg : 1111111111000000  base 10:   65472
+TempInstr      : 1000000000000000  base 10:   32768
+StackPointer   : 0000111101111101  base 10:    3965
+ARegister      : 1111111111110101  base 10:   65525
+BRegister      : 1111111111110110  base 10:   65526
+CRegister      : 0000000000000000  base 10:       0
+DRegister      : 0000000000000001  base 10:       1
+ERegister      : 0000000000000000  base 10:       0
+FRegister      : 0000000000000000  base 10:       0
+
+Total cycles   : 1244439
